@@ -6,6 +6,7 @@
       // the reason we use tjson is because json is hard
       // The category screen won't show up unless there are more than 1 categories
       "Tutorial",
+      "Dale",
       "Bopeebo",
       "Fresh",
       "Dadbattle",
@@ -24,6 +25,7 @@
       "Senpai",
       "Roses",
       "Thorns"
+      
     ]
   },
   // trailing commas don't matter with tjson
